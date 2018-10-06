@@ -1,0 +1,211 @@
+[{
+    "DayOfMonth": 1,
+    "DayOfWeek": "w",
+    "High": "34",
+    "Low": "20",
+    "ChanceOfPrecipitation": "80"
+  },
+  {
+    "DayOfMonth": 2,
+    "DayOfWeek": "th",
+    "High": "31",
+    "Low": "25",
+    "ChanceOfPrecipitation": "83"
+  },
+  {
+    "DayOfMonth": 3,
+    "DayOfWeek": "f",
+    "High": "32",
+    "Low": "24",
+    "ChanceOfPrecipitation": "70"
+  },
+  {
+    "DayOfMonth": 4,
+    "DayOfWeek": "s",
+    "High": "32",
+    "Low": "21",
+    "ChanceOfPrecipitation": "67"
+  },
+  {
+    "DayOfMonth": 5,
+    "DayOfWeek": "su",
+    "High": "29",
+    "Low": "26",
+    "ChanceOfPrecipitation": "03"
+  },
+  {
+    "DayOfMonth": 6,
+    "DayOfWeek": "m",
+    "High": "28",
+    "Low": "21",
+    "ChanceOfPrecipitation": "05"
+  },
+  {
+    "DayOfMonth": 7,
+    "DayOfWeek": "t",
+    "High": "27",
+    "Low": "21",
+    "ChanceOfPrecipitation": "01"
+  },
+  {
+    "DayOfMonth": 8,
+    "DayOfWeek": "w",
+    "High": "28",
+    "Low": "23",
+    "ChanceOfPrecipitation": "20"
+  },
+  {
+    "DayOfMonth": 9,
+    "DayOfWeek": "th",
+    "High": "26",
+    "Low": "22",
+    "ChanceOfPrecipitation": "15"
+  },
+  {
+    "DayOfMonth": 10,
+    "DayOfWeek": "f",
+    "High": "27",
+    "Low": "22",
+    "ChanceOfPrecipitation": "00"
+  },
+  {
+    "DayOfMonth": 11,
+    "DayOfWeek": "s",
+    "High": "29",
+    "Low": "22",
+    "ChanceOfPrecipitation": "09"
+  },
+  {
+    "DayOfMonth": 12,
+    "DayOfWeek": "su",
+    "High": "28",
+    "Low": "23",
+    "ChanceOfPrecipitation": "40"
+  },
+  {
+    "DayOfMonth": 13,
+    "DayOfWeek": "m",
+    "High": "30",
+    "Low": "25",
+    "ChanceOfPrecipitation": "20"
+  },
+  {
+    "DayOfMonth": 14,
+    "DayOfWeek": "t",
+    "High": "32",
+    "Low": "25",
+    "ChanceOfPrecipitation": "39"
+  },
+  {
+    "DayOfMonth": 15,
+    "DayOfWeek": "w",
+    "High": "29",
+    "Low": "24",
+    "ChanceOfPrecipitation": "33"
+  },
+  {
+    "DayOfMonth": 16,
+    "DayOfWeek": "th",
+    "High": "29",
+    "Low": "25",
+    "ChanceOfPrecipitation": "04"
+  },
+  {
+    "DayOfMonth": 17,
+    "DayOfWeek": "f",
+    "High": "29",
+    "Low": "20",
+    "ChanceOfPrecipitation": "29"
+  },
+  {
+    "DayOfMonth": 18,
+    "DayOfWeek": "s",
+    "High": "27",
+    "Low": "20",
+    "ChanceOfPrecipitation": "76"
+  },
+  {
+    "DayOfMonth": 19,
+    "DayOfWeek": "su",
+    "High": "26",
+    "Low": "22",
+    "ChanceOfPrecipitation": "73"
+  },
+  {
+    "DayOfMonth": 20,
+    "DayOfWeek": "m ",
+    "High": "29",
+    "Low": "23",
+    "ChanceOfPrecipitation": "89"
+  },
+  {
+    "DayOfMonth": 21,
+    "DayOfWeek": "t ",
+    "High": "22",
+    "Low": "21",
+    "ChanceOfPrecipitation": "97"
+  },
+  {
+    "DayOfMonth": 22,
+    "DayOfWeek": "w  ",
+    "High": "26",
+    "Low": "24",
+    "ChanceOfPrecipitation": "100"
+  },
+  {
+    "DayOfMonth": 23,
+    "DayOfWeek": "th",
+    "High": "28",
+    "Low": "22",
+    "ChanceOfPrecipitation": "100"
+  },
+  {
+    "DayOfMonth": 24,
+    "DayOfWeek": "f",
+    "High": "25",
+    "Low": "20",
+    "ChanceOfPrecipitation": "44"
+  },
+  {
+    "DayOfMonth": 25,
+    "DayOfWeek": "s",
+    "High": "29",
+    "Low": "21",
+    "ChanceOfPrecipitation": "04"
+  },
+  {
+    "DayOfMonth": 26,
+    "DayOfWeek": "su",
+    "High": "30",
+    "Low": "20",
+    "ChanceOfPrecipitation": "00"
+  },
+  {
+    "DayOfMonth": 27,
+    "DayOfWeek": "m ",
+    "High": "30",
+    "Low": "23",
+    "ChanceOfPrecipitation": "00"
+  },
+  {
+    "DayOfMonth": 28,
+    "DayOfWeek": "t",
+    "High": "28",
+    "Low": "24",
+    "ChanceOfPrecipitation": "02"
+  },
+  {
+    "DayOfMonth": 29,
+    "DayOfWeek": "w",
+    "High": "33",
+    "Low": "25",
+    "ChanceOfPrecipitation": "09"
+  },
+  {
+    "DayOfMonth": 30,
+    "DayOfWeek": "th",
+    "High": "30",
+    "Low": "25",
+    "ChanceOfPrecipitation": "11"
+  }
+]
